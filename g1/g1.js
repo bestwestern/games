@@ -1,5 +1,5 @@
 if (Meteor.isClient) {
-  // counter starts at 0cccc
+  // counter starts at 0ccccfdsfs
   Session.setDefault("counter", 0);
 
   Template.hello.helpers({
